@@ -31,11 +31,11 @@
 
   ## Contribution:
 
-  ges
+  test
 
   ## Questions:
 
-  If you have any questions, you can email me at: test
-  You can find more of my work at [undefined](https://github.com/undefined)
+  If you have any questions, you can email me at: test@dtest.com.
+  You can find more of my work at [test](https://github.com/undefined)
 
 
